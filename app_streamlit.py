@@ -31,7 +31,6 @@ st.markdown("""
 """)
 
 
-
 # Criando o formulário com as entradas
 with st.form(key='form_dados'):
     bedrooms = st.number_input('Número de quartos', min_value=1, max_value=10, value=3)

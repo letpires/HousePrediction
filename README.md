@@ -189,4 +189,5 @@ streamlit run app_streamlit.py
 <hr>
 
 <h2>✨ Demonstração</h2>
-<p><strong>Acesso rápido:</strong> <em>(Link aqui, se disponível)</em></p>
+
+![Demonstração da Aplicação](https://github.com/letpires/PredicaoCasas/blob/main/demonstracao.gif)

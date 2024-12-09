@@ -44,6 +44,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 </pre>
 
+Isso iniciará o servidor na porta 8000 por padrão. Você pode acessar a documentação interativa da API em http://127.0.0.1:8000/docs.
+
 <h3>Endpoints</h3>
 
 <h4>📥 <strong>Download e Extração do Dataset</strong></h4>
